@@ -6,3 +6,5 @@ Used two bugs:
 
 ### Array.prototype.slice.call
 ### Buffer.from
+
+#### Writeup is coming soon.
